@@ -1,3 +1,9 @@
+---
+layout: post
+title: Diwan instruments
+subtitle: What are the main music instruments in Diwan?
+---
+
 * Goumbri
 
 <img src="https://i0.wp.com/www.culturealgerie.com/wp-content/uploads/2018/12/Maalem-Benaissa.jpg" width="300">
