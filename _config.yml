@@ -14,8 +14,7 @@ author: Bania DE
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Wikipedia: "https://en.wikipedia.org/wiki/Gnawa_music"
   Author's home: "https://gridsof.github.io"
 
 # --- Logo --- #
