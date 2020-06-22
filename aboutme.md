@@ -4,13 +4,4 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Salam, I am an amateur musician with a huge interest in traditional algerian music especially Diwan. Diwan is a genre of Gnawa music based in Algeria. It shares some similar practices and instruments with other Gnawa styles from other african countries. This page will serve as an introductory source for everyone interesting in this music and culture. I will try to update and add new informations, this will depend on my free time.
