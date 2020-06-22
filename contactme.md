@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Contact me
-subtitle: Contact me
+title: Contact
+subtitle: Contact
 published: true
 ---
 
